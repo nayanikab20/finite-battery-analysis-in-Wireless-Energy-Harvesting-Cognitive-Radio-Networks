@@ -1,1 +1,1 @@
-# finite-battery-analysis-in-Wireless-Energy-Harvesting-Cognitive-Radio-Networks
+# Finite-Battery-Analysis-in-Wireless-Energy-Harvesting-Cognitive-Radio-Networks
